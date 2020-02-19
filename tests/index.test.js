@@ -5,7 +5,7 @@ describe('Authentication', () => {
   describe('Login', () => {
     it('should fail', async () => {
 
-      expect(false).to.be.false;
+      expect(false).to.be.true;
     });
     it('should pass', async () => {
 
